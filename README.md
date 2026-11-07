@@ -13,9 +13,10 @@
   
   <br><br>
 
-  <!-- MAIN THUMBNAIL / HERO IMAGE (MOVED DOWN) -->
-  <img src="Yapora Neon Chat App Banner.png" width="100%" alt="YAPORA Banner">
-</div>
+<!-- This centers the image and keeps it from getting cut off -->
+<p align="center">
+  <img src="banner.png" width="80%" alt="YAPORA Banner">
+</p>
 
 ---
 
