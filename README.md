@@ -38,7 +38,7 @@ Clone the repository and build the debug APK on Windows:
 
 <!-- This centers the image and keeps it from getting cut off -->
 <p align="center">
-  <img src="Yapora Neon Chat App Banner.png" width="80%" alt="YAPORA Banner">
+  <img src="Yapora Neon Cat App Logo.png" width="80%" alt="YAPORA Banner">
 </p>
 
 
