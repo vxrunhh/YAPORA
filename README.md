@@ -13,11 +13,6 @@
   
   <br><br>
 
-<!-- This centers the image and keeps it from getting cut off -->
-<p align="center">
-  <img src="banner.png" width="80%" alt="YAPORA Banner">
-</p>
-
 ---
 
 YAPORA is a public Android chat app built with Kotlin and Jetpack Compose. Guests can send text messages and memes in one shared Firebase Realtime Database room.
@@ -40,5 +35,13 @@ YAPORA is a public Android chat app built with Kotlin and Jetpack Compose. Guest
 
 ### 📦 Build Instructions
 Clone the repository and build the debug APK on Windows:
+
+<!-- This centers the image and keeps it from getting cut off -->
+<p align="center">
+  <img src="Yapora Neon Chat App Banner.png" width="80%" alt="YAPORA Banner">
+</p>
+
+
 ```powershell
+
 .\gradlew.bat :app:assembleDebug
