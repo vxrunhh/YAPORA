@@ -10,9 +10,10 @@
   <img src="https://img.shields.io/badge/Language-Kotlin-purple.svg" alt="Kotlin">
   <img src="https://img.shields.io/badge/UI-Jetpack_Compose-blue.svg" alt="Compose">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  
   <br><br>
 
-  <!-- MAIN THUMBNAIL / HERO IMAGE -->
+  <!-- MAIN THUMBNAIL / HERO IMAGE (MOVED DOWN) -->
   <img src="Yapora Neon Chat App Banner.png" width="100%" alt="YAPORA Banner">
 </div>
 
