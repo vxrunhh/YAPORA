@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- ADD YOUR LOGO HERE -->
-  <img src="Neon Cat Shaka Chat Icon.png" width="150" alt="YAPORA Logo">
+  <img src="cropped_circle_image.png" width="150" alt="YAPORA Logo">
   
   <h1>🐱 YAPORA</h1>
   <p><b>Talk Freely. Share the Moment.</b></p>
