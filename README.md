@@ -1,18 +1,19 @@
-
-
-
-
 <div align="center">
-  <!-- ADD YOUR LOGO HERE -->
+  <!-- LOGO -->
   <img src="cropped_circle_image.png" width="150" alt="YAPORA Logo">
   
   <h1>🐱 YAPORA</h1>
   <p><b>Talk Freely. Share the Moment.</b></p>
 
+  <!-- BADGES -->
   <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Kotlin-purple.svg" alt="Kotlin">
   <img src="https://img.shields.io/badge/UI-Jetpack_Compose-blue.svg" alt="Compose">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <br><br>
+
+  <!-- MAIN THUMBNAIL / HERO IMAGE -->
+  <img src="Yapora Neon Chat App Banner.png" width="100%" alt="YAPORA Banner">
 </div>
 
 ---
@@ -26,15 +27,6 @@ YAPORA is a public Android chat app built with Kotlin and Jetpack Compose. Guest
 - **Ephemeral Messages:** Messages automatically expire after one hour (cleaned up by a Cloud Function).
 - **In-App Updates:** Seamless update flow via GitHub Releases with integrity checks, forced update options, and APK hash verification.
 - **Premium UI:** Dark purple Material 3 interface with custom cat/chat branding.
-
-## 📸 Screenshots
-<!-- ADD YOUR SCREENSHOTS HERE -->
-<!-- You can put multiple images side by side like this: -->
-<p align="center">
-  <img src="Yapora Neon Chat App Banner.png" width="450" alt="Chat Screen">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshot2.png" width="250" alt="Sticker Picker">
-</p>
 
 ## 🚀 Getting Started
 
