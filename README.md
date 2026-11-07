@@ -31,7 +31,7 @@ YAPORA is a public Android chat app built with Kotlin and Jetpack Compose. Guest
 <!-- ADD YOUR SCREENSHOTS HERE -->
 <!-- You can put multiple images side by side like this: -->
 <p align="center">
-  <img src="screenshot1.png" width="250" alt="Chat Screen">
+  <img src="Yapora Neon Chat App Banner.png" width="450" alt="Chat Screen">
   &nbsp;&nbsp;&nbsp;
   <img src="screenshot2.png" width="250" alt="Sticker Picker">
 </p>
