@@ -10,12 +10,16 @@
   <img src="https://img.shields.io/badge/Language-Kotlin-purple.svg" alt="Kotlin">
   <img src="https://img.shields.io/badge/UI-Jetpack_Compose-blue.svg" alt="Compose">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-  
-  <br><br>
+  <a href="https://streamvault-eta-sable.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Live-brightgreen.svg" alt="Website">
+  </a>
+</div>
 
 ---
 
 YAPORA is a public Android chat app built with Kotlin and Jetpack Compose. Guests can send text messages and memes in one shared Firebase Realtime Database room.
+
+🌐 **Official Website:** [https://streamvault-eta-sable.vercel.app/](https://streamvault-eta-sable.vercel.app/)
 
 ## ✨ Features
 - **Anonymous Sign-in:** Secure guest login via Firebase Authentication.
@@ -36,12 +40,5 @@ YAPORA is a public Android chat app built with Kotlin and Jetpack Compose. Guest
 ### 📦 Build Instructions
 Clone the repository and build the debug APK on Windows:
 
-<!-- This centers the image and keeps it from getting cut off -->
-<p align="center">
-  <img src="Yapora Neon Cat App Logo.png" width="80%" alt="YAPORA Banner">
-</p>
-
-
 ```powershell
-
 .\gradlew.bat :app:assembleDebug
