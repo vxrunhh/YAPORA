@@ -40,5 +40,10 @@ YAPORA is a public Android chat app built with Kotlin and Jetpack Compose. Guest
 ### 📦 Build Instructions
 Clone the repository and build the debug APK on Windows:
 
+<!-- This centers the image and keeps it from getting cut off -->
+<p align="center">
+  <img src="Yapora Neon Cat App Logo.png" width="80%" alt="YAPORA Banner">
+</p>
+
 ```powershell
 .\gradlew.bat :app:assembleDebug
